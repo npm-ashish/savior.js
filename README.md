@@ -2,10 +2,10 @@
 A JavaScript utility to save base64 data as a file on local disc. 
 This supports more than 650+ file types.
 
-# installation
+## installation
 `npm install savior.js --save`
 
-# usage
+## usage
 `import { savior } from 'savior.js';`
 
 ```javascript
@@ -14,3 +14,7 @@ This supports more than 650+ file types.
 // fileExtension - document type
 savior(byteData, fileName, fileExtension);
 ```
+
+##
+@NPM: https://www.npmjs.com/package/savior.js
+Demo: https://npm-ashish.github.io/savior.js/demo/
