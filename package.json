@@ -1,0 +1,27 @@
+{
+  "name": "savior.js",
+  "version": "1.0.0",
+  "description": "A JavaScript utility to save base64 data as a file on local disc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-ashish/savior.js.git"
+  },
+  "keywords": [
+    "save",
+    "base64",
+    "save-pdf",
+    "download",
+    "save",
+    "document"
+  ],
+  "author": "Ashish Kumar <ashishkumar.ui@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npm-ashish/savior.js/issues"
+  },
+  "homepage": "https://github.com/npm-ashish/savior.js#readme"
+}
