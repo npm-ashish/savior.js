@@ -21,4 +21,4 @@ function saveAsFile (byteData, fileName, type) {
 }
 
 // export
-module.exports.savior = saveAsFile;
+export { saveAsFile as savior };
