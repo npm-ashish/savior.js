@@ -15,3 +15,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+
+# test files
+app.js
+index.html
+app.css
