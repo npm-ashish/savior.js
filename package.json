@@ -1,6 +1,6 @@
 {
   "name": "savior.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript utility to save base64 data as a file on local disc.",
   "main": "index.js",
   "scripts": {
